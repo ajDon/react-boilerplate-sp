@@ -11,7 +11,7 @@
   "keywords": [
     "react-boilerplate"
   ],
-  "author": "",
+  "author": "ajDon",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.1",
