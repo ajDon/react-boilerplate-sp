@@ -1,0 +1,20 @@
+{
+    "parser": "babel-eslint",
+    "env": {
+        "es6": true
+    },
+    "rules": {
+        "prop-types": [
+            0
+        ],
+        "no-duplicate-imports": "warn",
+        "constructor-super": "warn",
+        "camelcase": "warn",
+        "complexity": "warn",
+        "eqeqeq": "error",
+        "semi-style": "error",
+        "indent": "error",
+        "comma-style": "warn",
+        "no-extra-semi": "warn"
+    }
+}
